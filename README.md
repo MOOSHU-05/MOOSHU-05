@@ -1,5 +1,5 @@
 # Hi there! 👋🏼 
 
-## My name is Julien and I’m currently learning Cloud and Devops Fundamentals ! 💻
+## My name is Julien and I’m currently learning Cloud and DevOps Fundamentals ! 💻
 
 
